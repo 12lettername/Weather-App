@@ -6,6 +6,12 @@ It returns you with parameters Time, Temperature, Feels Like, Humidity, Precipit
 
 <img src="public/image.png" alt="homepage" width="800"/>
 
+## Deployed on render
+
+I have deployed the website on render.com
+
+Here is the link [Weather App](https://weather-app-gb5c.onrender.com)
+
 ## To run the code
 **First install all node modules**
 
