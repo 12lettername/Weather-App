@@ -10,7 +10,7 @@ It returns you with parameters Time, Temperature, Feels Like, Humidity, Precipit
 
 I have deployed the website on render.com
 
-Here is the link [Weather App](https://weather-app-gb5c.onrender.com)
+Here is the link [Weather App](https://weather-app-gb5c.onrender.com) . It might take almost 1 minute to load for the first time as I am using a free deployment plan.
 
 ## To run the code
 **First install all node modules**
